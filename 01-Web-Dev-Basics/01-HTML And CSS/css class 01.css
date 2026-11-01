@@ -1,0 +1,30 @@
+h1{
+    color: cadetblue;
+    background-color: antiquewhite;
+    text-align: center;
+    text-decoration:underline;
+}
+h2{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+div{
+    text-decoration: double;
+    text-align: center;
+    text-shadow: 0cqi;
+    text-transform:capitalize;
+    background-color: antiquewhite;
+    height: 2%;
+    width: fit-content;
+}
+h3{
+    background-color: red;
+    height: 50px;
+    width: max-content;
+    text-decoration: aliceblue;
+}
+#b3{
+    border: 0cqh;
+    background-color:chartreuse;
+}

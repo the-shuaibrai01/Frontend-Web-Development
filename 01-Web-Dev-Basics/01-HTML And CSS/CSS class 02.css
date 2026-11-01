@@ -1,0 +1,52 @@
+#main-heading{
+    text-align: center;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    color: tomato;
+    background-color:aqua;
+}
+#secound-heading{
+    color: brown;
+    background-color:antiquewhite;
+
+}
+/*box model*/
+header{
+    display: flex;
+    margin: 10px;
+}
+/*Q no.1 :create a div with height and width of 100px .set its bg-color to green and border redius to 50%*/
+div{
+    margin: 15px;
+    display:flexbox;
+    text-align: center;
+    text-transform: lowercase;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin:right;
+    border: 5px;
+    border-style: solid;
+    border-color:bisque;
+    padding: left;
+    border-radius: 20px;
+} 
+nav {
+    background-color:burlywood;
+    border-radius: 25;
+    height: 35px;
+ }
+nav ul {
+    display: flex;          /* Arrange items in a row */
+    list-style: none;       /* Remove bullets */
+    margin: 0;
+    padding: 0;
+}
+    nav ul li {
+    margin: 0 50px;                          
+}
+    nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    }
