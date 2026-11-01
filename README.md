@@ -52,10 +52,10 @@ I will continuously add my frontend projects and practical implementations to th
 
 | # | Project | Technology | Status |
 |---|---|---|---|
-| 1 | HTML Practice | HTML5 | Learning |
-| 2 | CSS Practice | CSS3 | Learning |
-| 3 | JavaScript Practice | JavaScript | Upcoming |
-| 4 | Mini Projects | HTML, CSS, JS | Upcoming |
+| 1 | tic tac toe | HTML,CSS,JS | completed |
+| 2 | rock paper and sciessor | HTML,CSS,JS | completed |
+| 3 | currencyConverter | HTML,CSS,JS | completed |
+| 4 | amazon styling clone | HTML,CSS| completed |
 
 ## 📈 My Progress
 
