@@ -1,0 +1,28 @@
+div{
+    background-color: antiquewhite;
+    text-align: center;
+    color: aqua;
+    border: 1px solid black;
+    border-radius: 20%;
+    height:100px;
+    width: 100px;
+}
+body {
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    transition: 0.3s;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+#mode{
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 20px;
+}
