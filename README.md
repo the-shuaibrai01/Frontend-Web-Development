@@ -16,19 +16,20 @@ This repository documents my journey of learning and mastering frontend web deve
 ```text
 Frontend-Web-Development/
 │
-├── HTML/
-│   ├── Basics/
-│   └── Projects/
+├── web dev basics/
+│   ├── html and css/
+│   └── javascript/
 │
-├── CSS/
-│   ├── Basics/
-│   ├── Flexbox/
-│   └── Grid/
+├── webdev exercise/
+│   ├── catfact/
+│   ├── registration form/
+│   └── to do list/
+
 │
-├── JavaScript/
-│   ├── Basics/
-│   ├── DOM/
-│   └── Projects/
+├── mini projects/
+│   ├── TTT/
+│   ├── RPS/
+│   └── corencyconverter/
 │
 ├── React/
 │
